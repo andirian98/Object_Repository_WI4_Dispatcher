@@ -1,0 +1,11 @@
+﻿{
+  "Id": "RLEiG7TeWEeUHx5hBaTE3A",
+  "Reference": "CAzEw1GJW0y0jbrx0AwDbw/RLEiG7TeWEeUHx5hBaTE3A",
+  "Name": "Edge: ACME System 1 - Dashboard app",
+  "Type": "App",
+  "Created": "2022-11-04T02:41:07.0028227Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-11-04T02:41:07.0028227Z"
+}

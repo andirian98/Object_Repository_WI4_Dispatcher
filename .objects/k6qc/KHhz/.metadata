@@ -1,0 +1,12 @@
+﻿{
+  "Id": "KHhzipLaKkqli6tE1mkWCg",
+  "Reference": "CAzEw1GJW0y0jbrx0AwDbw/KHhzipLaKkqli6tE1mkWCg",
+  "ParentRef": "CAzEw1GJW0y0jbrx0AwDbw/k6qc8Yee0E6glvAdQCJuKw",
+  "Name": "1.0.0",
+  "Type": "AppVersion",
+  "Created": "2022-11-04T02:35:08.5908958Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-11-04T02:35:08.5908958Z"
+}
